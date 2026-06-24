@@ -31,11 +31,11 @@ Latest Release: [![GitHub release](https://img.shields.io/github/release-pre/Oli
 
 维护者: 仑质
 
-感谢: 鱼仙 NULL 桑相 鸽雾升平 雨鸣于舟 炎之十月 QCD等(排名不分先后)
+感谢: NULL 桑相 鸽雾升平 雨鸣于舟 炎之十月 QCD等(排名不分先后)
 
 ## 遗产骰主
 
-感谢:NULL、鱼仙、桑相、鸽雾升平、雨鸣于舟、炎之十月、QCD、流云、都筑京香、绫目等
+感谢:NULL、桑相、鸽雾升平、雨鸣于舟、炎之十月、QCD、流云、都筑京香、绫目等
 
 名单还在补完，请加群进行沟通~
 
